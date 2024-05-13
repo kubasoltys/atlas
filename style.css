@@ -1,3 +1,7 @@
-.vlajky {
-    width: auto;
+body {
+    background-color: rgb(179, 179, 179);
+}
+
+.card {
+    background-color: rgb(204, 204, 204);
 }
